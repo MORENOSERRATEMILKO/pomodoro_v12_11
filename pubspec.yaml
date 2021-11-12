@@ -34,12 +34,17 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+
   flutter_launcher_icons: ^0.9.2
+
+  
 
 flutter_icons:
   android: true
   ios: true
   image_path: icon/pomodoro.jpeg
+  
+
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
@@ -81,4 +86,4 @@ flutter:
   #         weight: 700
   #
   # For details regarding fonts from package dependencies,
-  # see https://flutter.dev/custom-fonts/#from-packages
+  # see https://flutter.dev/custom-fonts/#from-packages,
